@@ -18,6 +18,11 @@ The steps below presenting the work done to establish the IoT network and prepar
 5/Train machine learning models using Edge Impulse Platform for Embedded ML.
 
 6/ Hardware design: 3D mechanical and electronic design.
+
+## Table of Contents
+- [Install Mosquitto MQTT](### Install Mosquitto MQTT)
+
+
 # 1/ Installation and environment preparation
 
 ### Install Mosquitto MQTT 
