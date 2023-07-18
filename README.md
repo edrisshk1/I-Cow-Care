@@ -77,9 +77,9 @@ This contribution to the project wasn't possible without the participation of th
 
 MQTT
 
-![MQTT1](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/cf390cda-7481-468f-8e86-b82f5a506e1b =250x250)
-![MQTT2](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/14a777ec-289d-47e4-926f-7f040c07e3de =250x250)
-![MQTT3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/8a1264de-80f0-4ef1-8ca4-a51d47563105 =250x250)
+![MQTT1](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/cf390cda-7481-468f-8e86-b82f5a506e1b)
+![MQTT2](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/14a777ec-289d-47e4-926f-7f040c07e3de)
+![MQTT3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/8a1264de-80f0-4ef1-8ca4-a51d47563105)
 
 Firebase
 
