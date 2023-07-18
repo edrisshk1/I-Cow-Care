@@ -75,17 +75,17 @@ This contribution to the project wasn't possible without the participation of th
 
 ## Demo
 
-MQTT
+# MQTT
 
 ![MQTT1](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/cf390cda-7481-468f-8e86-b82f5a506e1b)
 ![MQTT2](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/14a777ec-289d-47e4-926f-7f040c07e3de)
 ![MQTT3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/8a1264de-80f0-4ef1-8ca4-a51d47563105)
 
-Firebase
+# Firebase
 
 ![Firebase realtime data](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/7f58e825-9b98-46b6-acf6-1c721add272f)
 
-Node-RED / Dashboard
+# Node-RED / Dashboard
 
 ![begin cmd](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/4eddd70f-5a01-42e2-8b92-e93d33fb475f)
 ![dashboard nodes](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/068f30c1-7a90-4830-901c-28de313ee544)
@@ -93,7 +93,7 @@ Node-RED / Dashboard
 ![dashboard2](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/3846327b-40c2-43c7-9012-6f8b625694f6)
 ![dashboard3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/86035161-ae1a-4ba9-9531-1bc948bd641d)
 
-Mechanical Design
+# Mechanical Design
 
 ![CollarRender5](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/efd6ec51-9f1b-4ec9-a791-f0fd087f769b)
 ![CollarRender4](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/9d79aaff-963f-4bdc-8732-f107cb7a6991)
@@ -103,10 +103,10 @@ Mechanical Design
 ![CollarNeck4](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/a9f02aee-d4ad-4e49-9d8a-047b5d79b3dc)
 ![CollarNeck3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/6fa0380c-957e-46f6-bbc6-142354aa5223)
 
-Electronic Scheme
+# Electronic Scheme
 
 ![SCL](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/1bdf43de-b45b-4655-911c-91a4d0970367)
 
-Flow Diagram
+# Flow Diagram
 
 ![SCL (1)](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/8d827da0-4d0c-4716-9b6d-ed8d183c2d42)
