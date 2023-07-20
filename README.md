@@ -15,9 +15,9 @@ The steps below presenting the work done to establish the IoT network and prepar
 
 4/ Prepare a dashboard for data visualization and analysis using Node-RED.
 
-5/Train machine learning models using Edge Impulse Platform for Embedded ML.
+5/ Hardware design: 3D mechanical and electronic design.
 
-6/ Hardware design: 3D mechanical and electronic design.
+6/Train machine learning models using Edge Impulse Platform for Embedded ML.
 
 # 1/ Installation and environment preparation
 
