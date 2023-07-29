@@ -72,6 +72,9 @@ This contribution to the project wasn't possible without the participation of th
 - Majd Karoui
 - Niam Oueslati
 - Elyes Khechine
+And the supervision of our professors :
+- Imen Harbaoui
+- Rabaa Youssef
 
 ## Demo
 
